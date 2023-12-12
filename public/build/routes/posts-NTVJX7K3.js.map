@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Eduardo\\Desktop\\cursos\\remix-blog\\app\\routes\\posts.jsx?browser", "../../../app/routes/posts.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\Eduardo\\\\Desktop\\\\cursos\\\\remix-blog\\\\app\\\\routes\\\\posts.jsx\";", "import { Outlet } from 'remix'\n\nfunction Posts() {\n  return (\n    <>\n      <Outlet />\n    </>\n  )\n}\n\nexport default Posts\n"],
+  "mappings": ";;;;;;;;;;AAAA;;;ACAA;AAEA,iBAAiB;AACf,SACE,0DACE,oCAAC,gCAAD;AAAA;AAKN,IAAO,gBAAQ;",
+  "names": []
+}

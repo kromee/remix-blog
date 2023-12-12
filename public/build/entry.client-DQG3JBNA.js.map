@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../app/entry.client.jsx"],
+  "sourcesContent": ["// REMIX HMR BEGIN\nimport * as __hmr__ from \"remix:hmr\";\nif (import.meta) {\nimport.meta.hot = __hmr__.createHotContext(\n//@ts-expect-error\n\"app\\\\entry.client.jsx\"\n);\nimport.meta.hot.lastModified = \"1694301504373.3806\";\n}\n// REMIX HMR END\n\nimport { hydrate } from \"react-dom\";\nimport { RemixBrowser } from \"remix\";\n\nhydrate(<RemixBrowser />, document);\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAWA,uBAAwB;AAGhB;AAZR,IAAI,aAAa;AACjB,cAAY,MAAc;AAAA;AAAA,IAE1B;AAAA,EACA;AACA,cAAY,IAAI,eAAe;AAC/B;AAAA,IAMA,0BAAQ,mDAAC,kBAAD;AAAA;AAAA;AAAA;AAAA,OAAc,GAAI,QAAQ;",
+  "names": []
+}

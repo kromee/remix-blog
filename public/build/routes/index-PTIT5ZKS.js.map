@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Eduardo\\Desktop\\cursos\\remix-blog\\app\\routes\\index.jsx?browser", "../../../app/routes/index.jsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\Eduardo\\\\Desktop\\\\cursos\\\\remix-blog\\\\app\\\\routes\\\\index.jsx\";", "function Home() {\n  return (\n    <div>\n      <h1>Welcome to Remix!</h1>\n      <p>\n        Remix is a full stack web framework by the creators of React Router.\n        This is a simple blog app from the Traversy Media Remix crash course.\n      </p>\n    </div>\n  )\n}\n\nexport default Home\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAA,gBAAgB;AACd,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI,sBACJ,oCAAC,KAAD,MAAG;AAAA;AAQT,IAAO,iBAAQ;",
+  "names": []
+}

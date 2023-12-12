@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\Eduardo\\Desktop\\cursos\\remix-blog\\app\\routes\\auth\\logout.jsx?browser", "../../../../app/routes/auth/logout.jsx"],
+  "sourcesContent": ["export * from \"C:\\\\Users\\\\Eduardo\\\\Desktop\\\\cursos\\\\remix-blog\\\\app\\\\routes\\\\auth\\\\logout.jsx\";", "import { redirect } from 'remix'\nimport { logout } from '~/utils/session.server'\n\nexport const action = async ({ request }) => {\n  return logout(request)\n}\n\nexport const loader = async () => {\n  return redirect('/')\n}\n"],
+  "mappings": ";;;;;;;;;;;;;AAAA;;;ACAA;AACA,qBAAuB;AAEhB,IAAM,SAAS,OAAO,EAAE,cAAc;AAC3C,SAAO,2BAAO;AAAA;AAGT,IAAM,SAAS,YAAY;AAChC,SAAO,oCAAS;AAAA;",
+  "names": []
+}
